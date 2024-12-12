@@ -1,1 +1,1 @@
-# Phishing-Training---MasterCartd
+# Phishing-Training -- MasterCard
